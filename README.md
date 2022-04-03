@@ -11,5 +11,3 @@ https://vievenna.github.io/currencyconventer/
 - HTML
 - CSS
 - JavaScript
-
-![Money gif] (https://raw.githubusercontent.com/vievenna/currencyconventer/master/images/money.gif)
