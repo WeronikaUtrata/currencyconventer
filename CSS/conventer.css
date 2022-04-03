@@ -12,6 +12,9 @@ html {
     padding: 20px;
     font-family: 'Montserrat', sans-serif;
     background-color: white;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .form__labelText {
